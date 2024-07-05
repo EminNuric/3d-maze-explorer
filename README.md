@@ -5,7 +5,6 @@ The hackathon was hosted by the German Canadian Club on June 30th.
 
 For this I limited myself to using only basic java libraries.
 
-
 Controls:
 
 W: Move forward
